@@ -403,7 +403,7 @@
       "netlist": "",
       "specctra_dsn": "",
       "step": "",
-      "vrml": "../résultats/pong.wrl"
+      "vrml": "../results/pong.wrl"
     },
     "page_layout_descr_file": ""
   },
