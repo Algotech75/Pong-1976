@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "Pong")(type "KiCad")(uri "${KIPRJMOD}/pong.kicad_sym")(options "")(descr ""))
+)
